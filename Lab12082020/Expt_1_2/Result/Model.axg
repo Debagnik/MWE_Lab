@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry creator="modeler" version="20170928">
+  <Objects>
+    <Object name="Lumped Elements\element1" id="4">
+      <FatArrow dimension="10 10 10" direction="0 0 -1.799999952316" material="$WireMaterial$" position="0 67 -0.8999999761581" short="element1" text="element1"/>
+      <LineSet material="$WireMaterial$" points="0 67 0 0 67 -1.799999952316" stripped="1"/>
+      <LineSet material="$PortMaterial$" points="-0.4350000023842 67 -0.8999999761581 0.4350000023842 67 -0.8999999761581" stripped="1"/>
+    </Object>
+    <Object name="Ports\port1 (Waveguide Port)" id="5">
+      <LineSet material="$PortMaterial$" points="-7.324999809265 0 3.400000095367 7.324999809265 0 3.400000095367 7.324999809265 0 -1.799999952316 -7.324999809265 0 -1.799999952316 -7.324999809265 0 3.400000095367" short="1" stripped="1" text="1: Waveguide Port"/>
+    </Object>
+  </Objects>
+  <Materials/>
+</CSTAuxiliaryGeometry>

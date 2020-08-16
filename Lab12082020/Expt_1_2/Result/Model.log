@@ -1,0 +1,153 @@
+15/Aug/2020 23:49:34  *** Warning ***
+                      
+                      This software is licensed for personal and educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:43  *** Warning ***
+                      
+                      This software is licensed for personal and educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:43  
+                      Solver started at: 11:49 PM Saturday, 15. August 2020 (India Standard Time)
+                      
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2019.5 Release from 2019-04-26 (change 688563)
+                      
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:43  ======================================================================
+                       Solver cycle: 1
+                      ======================================================================
+                      
+                      Stimulation at port 1 (mode 1) 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:43  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:46  The following lumped face element is connected to metal material:
+                      	1
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:46  Mesh statistics:
+                      
+                         Hexahedral mesh type: PBA [Version: legacy]
+                      
+                         Parallelization type: domain decomposition
+                            Number of parallel working threads: 1
+                            Number of calculation domains used: 1
+                      
+                         Used point accuracy enhancement value: 75.00%.
+                         PBA fill limit: 99.00% (inverse)
+
+15/Aug/2020 23:49:46  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:46  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: expanded open, 4 Layer, depth 28.8957 mm
+                        Xmax: expanded open, 4 Layer, depth 28.8957 mm
+                      
+                        Ymin: expanded open, 4 Layer, depth 24.9827 mm
+                        Ymax: expanded open, 4 Layer, depth 28.9058 mm
+                      
+                        Zmin: expanded open, 4 Layer, depth 29.0162 mm
+                        Zmax: expanded open, 4 Layer, depth 25.7377 mm
+                      
+                        PML-Type: Convolution PML
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:46  Frequency settings: 
+                      
+                        Fmin:         2
+                        Fmax:         4
+                        Nfsteps(lin): 1001
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:46  Waveguide boundaries:
+                      
+15/Aug/2020 23:49:46  Port: 1
+                      
+15/Aug/2020 23:49:46  Reloaded mode(s) for port 1.
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:47  Field update statistics:
+                      
+                        Number of components in total: 	79367
+                        Number of TST elements:		55
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:48  
+                      --------------------------------------------------------------------------------
+15/Aug/2020 23:49:48  Steady state energy criterion met, solver finished successfully.
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:48  Frequency domain results normalized to default signal.
+                      
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:48  
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        Matrices calc.      32226                         2473632      2318359      
+                        Solver run total    27560                         2370452      2359144      
+                        ----------------------------------------------------------------------------
+                      
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+                      
+                        Hardware:
+                           Computer name:                 	DebagnikPC 
+                      
+                           Number of CPU threads:               4
+                           Hardware info:                  	Hardware Accelerator Device not activated
+                      
+                        Number of mesh cells:             	12312
+                        Excitation duration:              	3.55454875e+000 ns 
+                        Calculation time for excitation:  	1 	s
+                        Number of calculated pulse widths:	1.08802 
+                        Steady state accuracy limit:      	-40	dB 
+                        Simulated number of time steps:   	1392 
+                        Maximum number of time steps:     	25587 
+                        Time step width:
+                           without subcycles:             	2.77832182e-003 ns
+                           used:                          	2.77832182e-003 ns
+                      
+                        Matrix calculation time:          	3 	s
+                        Solver setup time:                	0 	s
+                        Solver loop time:                 	1 	s
+                        Solver post processing time:      	0 	s
+                                                          	------------
+                        Total solver time:                	4 	s
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:48  
+                        Adaptive port meshing time:          	8      	s
+                        Total solver time (all cycles):      	4      	s
+                        solver initialization and clean-up:  	1      	s
+                                                             	------------
+                        Total simulation time:               	13     	s
+                      
+                      ------------------------------------------------------------------------------
+15/Aug/2020 23:49:48  Solver finished at: 11:49 PM Saturday, 15. August 2020
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
