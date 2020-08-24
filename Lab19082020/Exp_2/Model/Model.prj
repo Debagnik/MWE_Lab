@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.5 - Apr 26 2019 - ACIS 28.0.2 - Student Edition
+[Author]
+KIIT
+[Mesh Cells]
+22,800
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:exp_2.cst?0832653e2e9cfcfcc768f56a42551bc1?31762:numberofparameters=0:port=1>mode=1>zre=0>zim=0
+[Comment]

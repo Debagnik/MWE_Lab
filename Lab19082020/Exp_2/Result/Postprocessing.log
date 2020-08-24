@@ -1,0 +1,28 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 11:59 AM Monday, 24. August 2020
+
+  Evaluating 'Directivity,3D,Max. Value (Solid Angle)': 2 s
+
+  Total time: 4 s  ( = 0 h, 0 m, 4 s )
+
+Template based postprocessing finished at: 12:00 PM Monday, 24. August 2020
+----------------------------------------------------------------------------------------
+Template based postprocessing started at: 12:09 PM Monday, 24. August 2020
+
+  Error: No calculated Farfield Result with correct excitation string found.
+  Evaluating 'Directivity,3D,Max. Value (Solid Angle)': 13 s
+
+  Total time: 13 s  ( = 0 h, 0 m, 13 s )
+
+Template based postprocessing finished at: 12:09 PM Monday, 24. August 2020
+----------------------------------------------------------------------------------------
