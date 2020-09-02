@@ -1,0 +1,19 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 08:52 PM Friday, 28. August 2020
+
+  Evaluating 'Directivity,3D,Max. Value (Solid Angle)': 1 s
+
+  Total time: 3 s  ( = 0 h, 0 m, 3 s )
+
+Template based postprocessing finished at: 08:52 PM Friday, 28. August 2020
+----------------------------------------------------------------------------------------

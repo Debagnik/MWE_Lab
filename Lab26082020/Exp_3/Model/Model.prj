@@ -5,7 +5,7 @@
 [Author]
 KIIT
 [Mesh Cells]
-72,800
+28,938
 [Mesh Type]
 Hexahedral
 [Last Problem Type]
@@ -17,5 +17,5 @@ t
 [Results]
 Time Domain: S-Parameter
 [Modeler Unique ID]
-5:exp_3.cst?47bb6aaba9e372bb63ea1a93af5c59ee?54800:numberofparameters=0:port=1>mode=1>zre=0>zim=0
+5:exp_3.cst?c70533d60062cb1f759b834120fa09d8?62423:numberofparameters=0:port=1>mode=1>zre=0>zim=0
 [Comment]
