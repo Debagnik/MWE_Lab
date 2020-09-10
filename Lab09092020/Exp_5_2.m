@@ -5,7 +5,7 @@ clc
 clear all
 close all
 
-N=20                               %number of isotropic antenna elements
+N=input('Number of Elements: ')    %number of isotropic antenna elements
 
 SLL=-20                            %Desired Side lobe level
 
