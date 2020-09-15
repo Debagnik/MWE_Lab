@@ -52,7 +52,7 @@ grid on
 xlabel('Elevation angle (degrees)')
 ylabel('Array Factor (dB)')
 title('Simulating the antenna array')
-
+axis([-0.5 181 -60 0.5])
 %Calculating HPBW
 HPBW=0
 for index=182:361
