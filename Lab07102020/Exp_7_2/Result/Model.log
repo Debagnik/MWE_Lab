@@ -1,0 +1,356 @@
+07/Oct/2020 21:54:31  *** Warning ***
+                      
+                      This software is licensed for personal and educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:42  *** Warning ***
+                      
+                      This software is licensed for personal and educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:42  
+                      Solver started at: 09:54 PM Wednesday, 07. October 2020 (India Standard Time)
+                      
+                        Module:  Time Domain: S-Parameter (Win 64)
+                        Version: 2019.5 Release from 2019-04-26 (change 688563)
+                      
+
+                      ------------------------------------------------------------------------------
+
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:42  ======================================================================
+                       Solver cycle: 1
+                      ======================================================================
+                      
+                      Stimulation at port 1 (mode 1) 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:42  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:43  Using generalized port mode solver.
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:43  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: expanded open, 4 Layer, depth 8.5655 mm
+                        Xmax: expanded open, 4 Layer, depth 8.5655 mm
+                      
+                        Ymin: expanded open, 4 Layer, depth 8.5655 mm
+                        Ymax: expanded open, 4 Layer, depth 8.5655 mm
+                      
+                        Zmin: expanded open, 4 Layer, depth 8.5655 mm
+                        Zmax: expanded open, 4 Layer, depth 8.5655 mm
+                      
+                        PML-Type: Convolution PML
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:43  Frequency settings: 
+                      
+                        Fmin:         6
+                        Fmax:         8
+                        Nfsteps(lin): 1001
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:43  Waveguide boundaries:
+                      
+07/Oct/2020 21:54:43  Port: 1
+                      
+07/Oct/2020 21:54:43  Reloaded mode(s) for port 1.
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:43  Port: 2
+                      
+07/Oct/2020 21:54:43  Reloaded mode(s) for port 2.
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:43  Port: 3
+                      
+07/Oct/2020 21:54:43  Reloaded mode(s) for port 3.
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:43  *** Warning ***
+                      
+07/Oct/2020 21:54:43  The following port mode is at least partially excited below its cutoff frequency: 1(1). 
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:43  Field update statistics:
+                      
+                        Number of components in total: 	390807
+                        Number of TST elements:		3961
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:58  
+                      --------------------------------------------------------------------------------
+07/Oct/2020 21:54:58  AR-Filter criterion met, solver finished successfully.
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:58  Frequency domain results normalized to default signal.
+                      
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:58  
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        CAD preparation     22380                         1972896      1972896      
+                        Matrices calc.      103515                        1943359      1877929      
+                        Solver run total    62720                         2010220      1974064      
+                        ----------------------------------------------------------------------------
+                      
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+                      
+                        Hardware:
+                           Computer name:                 	DebagnikPC 
+                      
+                           Number of CPU threads:               4
+                           Hardware info:                  	Hardware Accelerator Device not activated
+                      
+                        Number of mesh cells:             	62730
+                        Excitation duration:              	3.55454875e+000 ns 
+                        Calculation time for excitation:  	7 	s
+                        Number of calculated pulse widths:	1.99998 
+                        Steady state accuracy limit:      	-40	dB 
+                        Simulated number of time steps:   	6909 
+                        Maximum number of time steps:     	69090 
+                        Time step width:
+                           without subcycles:             	1.02895352e-003 ns
+                           used:                          	1.02895352e-003 ns
+                      
+                        Reloading matrices:               	0 	s
+                        Solver setup time:                	1 	s
+                        Solver loop time:                 	13 	s
+                        Solver post processing time:      	0 	s
+                                                          	------------
+                        Total solver time:                	14 	s
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:58  ======================================================================
+                       Solver cycle: 2
+                      ======================================================================
+                      
+                      Stimulation at port 2 (mode 1) 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:58  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:58  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: expanded open, 4 Layer, depth 8.5655 mm
+                        Xmax: expanded open, 4 Layer, depth 8.5655 mm
+                      
+                        Ymin: expanded open, 4 Layer, depth 8.5655 mm
+                        Ymax: expanded open, 4 Layer, depth 8.5655 mm
+                      
+                        Zmin: expanded open, 4 Layer, depth 8.5655 mm
+                        Zmax: expanded open, 4 Layer, depth 8.5655 mm
+                      
+                        PML-Type: Convolution PML
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:58  Frequency settings: 
+                      
+                        Fmin:         6
+                        Fmax:         8
+                        Nfsteps(lin): 1001
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:58  *** Warning ***
+                      
+07/Oct/2020 21:54:58  The following port mode is at least partially excited below its cutoff frequency: 2(1). 
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:54:58  Field update statistics:
+                      
+                        Number of components in total: 	390807
+                        Number of TST elements:		3961
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:15  
+                      --------------------------------------------------------------------------------
+07/Oct/2020 21:55:15  AR-Filter criterion met, solver finished successfully.
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:15  Frequency domain results normalized to default signal.
+                      
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:15  
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        CAD preparation     22380                         1972896      1972896      
+                        Matrices calc.      103515                        1943359      1877929      
+                        Solver run total    74172                         1978292      1975672      
+                        ----------------------------------------------------------------------------
+                      
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+                      
+                        Hardware:
+                           Computer name:                 	DebagnikPC 
+                      
+                           Number of CPU threads:               4
+                           Hardware info:                  	Hardware Accelerator Device not activated
+                      
+                        Number of mesh cells:             	62730
+                        Excitation duration:              	3.55454875e+000 ns 
+                        Calculation time for excitation:  	8 	s
+                        Number of calculated pulse widths:	1.99998 
+                        Steady state accuracy limit:      	-40	dB 
+                        Simulated number of time steps:   	6909 
+                        Maximum number of time steps:     	69090 
+                        Time step width:
+                           without subcycles:             	1.02895352e-003 ns
+                           used:                          	1.02895352e-003 ns
+                      
+                        Reloading matrices:               	0 	s
+                        Solver setup time:                	0 	s
+                        Solver loop time:                 	15 	s
+                        Solver post processing time:      	0 	s
+                                                          	------------
+                        Total solver time:                	15 	s
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:15  ======================================================================
+                       Solver cycle: 3
+                      ======================================================================
+                      
+                      Stimulation at port 3 (mode 1) 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:15  Units settings: 
+                      
+                        Dimensions: mm
+                        Frequency:  GHz
+                        Time:       ns
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:15  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: expanded open, 4 Layer, depth 8.5655 mm
+                        Xmax: expanded open, 4 Layer, depth 8.5655 mm
+                      
+                        Ymin: expanded open, 4 Layer, depth 8.5655 mm
+                        Ymax: expanded open, 4 Layer, depth 8.5655 mm
+                      
+                        Zmin: expanded open, 4 Layer, depth 8.5655 mm
+                        Zmax: expanded open, 4 Layer, depth 8.5655 mm
+                      
+                        PML-Type: Convolution PML
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:15  Frequency settings: 
+                      
+                        Fmin:         6
+                        Fmax:         8
+                        Nfsteps(lin): 1001
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:15  *** Warning ***
+                      
+07/Oct/2020 21:55:15  The following port mode is at least partially excited below its cutoff frequency: 3(1). 
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:15  Field update statistics:
+                      
+                        Number of components in total: 	390807
+                        Number of TST elements:		3961
+                      
+                      Subcycling state:      Automatically deactivated
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:31  
+                      --------------------------------------------------------------------------------
+07/Oct/2020 21:55:31  AR-Filter criterion met, solver finished successfully.
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:31  Frequency domain results normalized to default signal.
+                      
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:31  
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        CAD preparation     22380                         1972896      1972896      
+                        Matrices calc.      103515                        1943359      1877929      
+                        Solver run total    77964                         1979652      1972888      
+                        ----------------------------------------------------------------------------
+                      
+                      --------------------------------------------------------------------------------
+                      Solver Statistics:
+                      
+                        Hardware:
+                           Computer name:                 	DebagnikPC 
+                      
+                           Number of CPU threads:               4
+                           Hardware info:                  	Hardware Accelerator Device not activated
+                      
+                        Number of mesh cells:             	62730
+                        Excitation duration:              	3.55454875e+000 ns 
+                        Calculation time for excitation:  	7 	s
+                        Number of calculated pulse widths:	1.99998 
+                        Steady state accuracy limit:      	-40	dB 
+                        Simulated number of time steps:   	6909 
+                        Maximum number of time steps:     	69090 
+                        Time step width:
+                           without subcycles:             	1.02895352e-003 ns
+                           used:                          	1.02895352e-003 ns
+                      
+                        Reloading matrices:               	0 	s
+                        Solver setup time:                	0 	s
+                        Solver loop time:                 	15 	s
+                        Solver post processing time:      	0 	s
+                                                          	------------
+                        Total solver time:                	15 	s
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:31  
+                        Adaptive port meshing time:          	10     	s
+                        Total solver time (all cycles):      	44     	s
+                        solver initialization and clean-up:  	5      	s
+                                                             	------------
+                        Total simulation time:               	59     	s
+                      
+                      ------------------------------------------------------------------------------
+07/Oct/2020 21:55:31  Solver finished at: 09:55 PM Wednesday, 07. October 2020
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
