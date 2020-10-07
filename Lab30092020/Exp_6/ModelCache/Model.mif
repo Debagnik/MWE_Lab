@@ -3,8 +3,8 @@
 [PCB_BODIES: False]
 [PCB_IMPORT: False]
 [DISABLE_FAST_LOAD: False]
-[BBOX:-35.541352416666669 35.541352416666669 -24.986352416666669 24.986352416666669 -12.491352416666667 62.491352416666665]
-[BBOX_STRUCTURE:-23.050000000000001 23.050000000000001 -12.495000000000001 12.495000000000001 0 50]
+[BBOX:-35.526352416666668 35.526352416666668 -24.986352416666669 24.986352416666669 -12.491352416666667 62.491352416666665]
+[BBOX_STRUCTURE:-23.035 23.035 -12.495000000000001 12.495000000000001 0 50]
 [UNITS]
      .Geometry "mm" 
      .Frequency "GHz" 
@@ -281,7 +281,7 @@ Solver.FrequencyRange "3", "9"
      .Orientation "zmax" 
      .PortOnBound "False" 
      .ClipPickedPortToBound "False" 
-     .Xrange "0", "46.100000000000001" 
+     .Xrange "0", "46.07" 
      .Yrange "0", "24.990000000000002" 
      .Zrange "0", "0" 
      .XrangeAdd "0.0", "0.0" 
@@ -289,8 +289,8 @@ Solver.FrequencyRange "3", "9"
      .ZrangeAdd "0.0", "0.0" 
      .SingleEnded "False" 
      .WaveguideMonitor "False" 
-     .ReferenceWCS "23.05", "12.495", "0", "0", "0", "1", "0", "1", "0"
-(TRANSFORM) "1", "0", "0", "0", "1", "0", "0", "0", "1"| "-23.05", "-12.495", "50"(ENDTRANSFORM)
+     .ReferenceWCS "23.035", "12.495", "0", "0", "0", "1", "0", "1", "0"
+(TRANSFORM) "1", "0", "0", "0", "1", "0", "0", "0", "1"| "-23.035", "-12.495", "50"(ENDTRANSFORM)
 [ENDWAVEGUIDE]
 [WAVEGUIDE: 2]
      .Label "" 
@@ -305,7 +305,7 @@ Solver.FrequencyRange "3", "9"
      .Orientation "zmin" 
      .PortOnBound "False" 
      .ClipPickedPortToBound "False" 
-     .Xrange "0", "46.100000000000001" 
+     .Xrange "0", "46.07" 
      .Yrange "0", "24.990000000000002" 
      .Zrange "0", "0" 
      .XrangeAdd "0.0", "0.0" 
@@ -313,6 +313,6 @@ Solver.FrequencyRange "3", "9"
      .ZrangeAdd "0.0", "0.0" 
      .SingleEnded "False" 
      .WaveguideMonitor "False" 
-     .ReferenceWCS "23.05", "12.495", "0", "0", "0", "-1", "0", "1", "0"
-(TRANSFORM) "1", "0", "0", "0", "1", "0", "0", "0", "1"| "-23.05", "-12.495", "0"(ENDTRANSFORM)
+     .ReferenceWCS "23.035", "12.495", "0", "0", "0", "-1", "0", "1", "0"
+(TRANSFORM) "1", "0", "0", "0", "1", "0", "0", "0", "1"| "-23.035", "-12.495", "0"(ENDTRANSFORM)
 [ENDWAVEGUIDE]
