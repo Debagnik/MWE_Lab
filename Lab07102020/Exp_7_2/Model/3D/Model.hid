@@ -9,9 +9,7 @@
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:Waveguide"
-
 [end]content
 [start]recover_picks
 1
@@ -27,9 +25,7 @@ Solid.Delete "component1:Waveguide"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:WaveformCavity"
-
 [end]content
 [start]recover_picks
 1
@@ -45,9 +41,7 @@ Solid.Delete "component1:WaveformCavity"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:WallCut"
-
 [end]content
 [start]recover_picks
 1
@@ -63,11 +57,8 @@ Solid.Delete "component1:WallCut"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:Arm"
-
 Solid.Delete "component1:Arm"
-
 [end]content
 [start]recover_picks
 1
@@ -83,9 +74,7 @@ Solid.Delete "component1:Arm"
 [start]command
 [end]command
 [start]content
-
 Solid.Delete "component1:ArmCavity"
-
 [end]content
 [start]recover_picks
 1
@@ -114,7 +103,6 @@ Solid.Delete "component1:ArmCavity"
 13
 [end]block_index
 [start]command
-
 '@ define port: 1
  (undo)
 [end]command
@@ -148,7 +136,6 @@ Port.Delete "1"
 15
 [end]block_index
 [start]command
-
 '@ define port: 2
  (undo)
 [end]command
@@ -180,6 +167,73 @@ Port.Delete "2"
 [start]undo_item
 [start]block_index
 17
+[end]block_index
+[start]command
+'@ define port: 3
+ (undo)
+[end]command
+[start]content
+Port.Delete "3"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+24
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+25
+[end]block_index
+[start]command
+
+'@ define port: 2
+ (undo)
+[end]command
+[start]content
+Port.Delete "2"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+26
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+27
 [end]block_index
 [start]command
 

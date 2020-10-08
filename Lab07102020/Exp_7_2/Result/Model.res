@@ -1,5 +1,5 @@
 MWS Result File Version 20150206
-size=i:163
+size=i:165
 
 type=s:HIDDENITEM
 problemclass=s::8:1000
@@ -248,6 +248,22 @@ creation=s:internal
 lifetime=s:rebuild
 result=s:1
 files=s:RefSpectrum_1.sig
+
+type=s:HIDDENITEM
+problemclass=s::8:1000
+visibility=s:hidden
+creation=s:internal
+lifetime=s:survivemeshadapt
+result=s:1
+files=s:model.gex
+
+type=s:HIDDENITEM
+problemclass=s::8:1000
+visibility=s:hidden
+creation=s:internal
+lifetime=s:survivemeshadapt
+result=s:1
+files=s:PP.fmm
 
 type=s:HIDDENITEM
 problemclass=s::8:1000

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SchematicTopology Version="2.3" Seed="1" Grid="25">
-    <BasePath>C:/Users/KIIT/Documents/MWE_Lab/Lab07102020/Exp_7/Model/DS</BasePath>
+    <BasePath>C:/Users/KIIT/Documents/MWE_Lab/Lab07102020/Exp_7_1/Model/DS</BasePath>
     <Block ForeignId="899851680" Id="1" Class="MWSSCHEM">
         <Size Height="225" Width="225"/>
         <Pins>

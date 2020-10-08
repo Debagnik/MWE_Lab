@@ -18,8 +18,8 @@
 ===============================
 Port preparation
 Version 2019.5 (build 20190426)
-PBA version 0
-2020 Oct 07 (Wed): 20:31:03
+PBA version 2019042619
+2020 Oct 08 (Thu): 04:00:34
 ===============================
 
 ==========================
@@ -46,13 +46,14 @@ Finished port preparation.
  - used mask (string)    : 1010 1010 
 ======================================================
 
-===============================
+=======================================
 Matrix computation (PBA)
-	[PBA version: legacy]
+	[Gaps between metals are preserved]
+	[PBA version: default]
 Version 2019.5 (build 20190426)
-PBA version 0
-2020 Oct 07 (Wed): 20:31:03
-===============================
+PBA version 2019042619
+2020 Oct 08 (Thu): 04:00:35
+=======================================
 
 ----------------------------------------------
 Used point accuracy enhancement value: 75.00%.
@@ -69,7 +70,7 @@ Priority:   1, shape   1: component1:Waveguide__1_0, material: PEC, float:   0.0
 ==================================================================================================
  
 ====================================================
-PBA version: legacy
+PBA version: default
 Geo accuracy: 75.000000
 PEC background is represented by CAD geometry: false
 Watertightness check: true
@@ -82,6 +83,10 @@ One shape per flange: false
 ====================================================
 Shapes are ordered to support shape wise matrix storage
 Gap-Detection activated for FARM-topology. Gaps are resolved, even partially.: gap tolerance value is 0.001 and mesh geometry scale is 0.001
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+FARM/Meshfill cache is set to 8 (local FI domains: 1, dynamic: false)
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
 ------------------------------------------------------------------------------
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 settings for port mode calculation
@@ -139,13 +144,14 @@ Finished matrix computation (PBA)
  - used mask (string)    : 1010 1010 
 ======================================================
 
-===============================
+=======================================
 Matrix computation (PBA)
-	[PBA version: legacy]
+	[Gaps between metals are preserved]
+	[PBA version: default]
 Version 2019.5 (build 20190426)
-PBA version 0
-2020 Oct 07 (Wed): 20:31:05
-===============================
+PBA version 2019042619
+2020 Oct 08 (Thu): 04:00:37
+=======================================
 
 ----------------------------------------------
 Used point accuracy enhancement value: 75.00%.
@@ -162,7 +168,7 @@ Priority:   1, shape   1: component1:Waveguide__2_0, material: PEC, float:   0.0
 ==================================================================================================
  
 ====================================================
-PBA version: legacy
+PBA version: default
 Geo accuracy: 75.000000
 PEC background is represented by CAD geometry: false
 Watertightness check: true
@@ -175,6 +181,10 @@ One shape per flange: false
 ====================================================
 Shapes are ordered to support shape wise matrix storage
 Gap-Detection activated for FARM-topology. Gaps are resolved, even partially.: gap tolerance value is 0.001 and mesh geometry scale is 0.001
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+FARM/Meshfill cache is set to 8 (local FI domains: 1, dynamic: false)
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
 ------------------------------------------------------------------------------
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 settings for port mode calculation
@@ -232,13 +242,14 @@ Finished matrix computation (PBA)
  - used mask (string)    : 1010 1010 
 ======================================================
 
-===============================
+=======================================
 Matrix computation (PBA)
-	[PBA version: legacy]
+	[Gaps between metals are preserved]
+	[PBA version: default]
 Version 2019.5 (build 20190426)
-PBA version 0
-2020 Oct 07 (Wed): 20:31:07
-===============================
+PBA version 2019042619
+2020 Oct 08 (Thu): 04:00:40
+=======================================
 
 ----------------------------------------------
 Used point accuracy enhancement value: 75.00%.
@@ -255,7 +266,7 @@ Priority:   1, shape   1: component1:Waveguide__3_0, material: PEC, float:   0.0
 ==================================================================================================
  
 ====================================================
-PBA version: legacy
+PBA version: default
 Geo accuracy: 75.000000
 PEC background is represented by CAD geometry: false
 Watertightness check: true
@@ -268,6 +279,10 @@ One shape per flange: false
 ====================================================
 Shapes are ordered to support shape wise matrix storage
 Gap-Detection activated for FARM-topology. Gaps are resolved, even partially.: gap tolerance value is 0.001 and mesh geometry scale is 0.001
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+FARM/Meshfill cache is set to 8 (local FI domains: 1, dynamic: false)
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
 ------------------------------------------------------------------------------
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 settings for port mode calculation
@@ -327,8 +342,8 @@ Processing CAD model (for field results)
 	[Improved internal geometry representation]
 	[Accuracy improvement for long shapes in inhomogeneous mesh regions]
 Version 2019.5 (build 20190426)
-PBA version 0
-2020 Oct 07 (Wed): 20:31:09
+PBA version 2019042619
+2020 Oct 08 (Thu): 04:00:42
 ========================================================================
 
 ===========================================
@@ -340,8 +355,8 @@ Processing CAD model
 	[Improved internal geometry representation]
 	[Accuracy improvement for long shapes in inhomogeneous mesh regions]
 Version 2019.5 (build 20190426)
-PBA version 0
-2020 Oct 07 (Wed): 20:31:09
+PBA version 2019042619
+2020 Oct 08 (Thu): 04:00:43
 ========================================================================
 
 ----------------------------------------------
@@ -383,7 +398,7 @@ Priority:   1, shape   1: component1:Waveguide, material: PEC, float:   0.00e+00
 ==================================================================================================
  
 ====================================================
-PBA version: legacy
+PBA version: default
 Geo accuracy: 75.000000
 PEC background is represented by CAD geometry: false
 Watertightness check: true
@@ -403,7 +418,7 @@ Parallelization Info
 ------------------------------------------------------------
 Number of concurrent threads: 1
 Number of node domains: 1
-Number of mesh fill domains: 2
+Number of mesh fill domains: 8
 Memory downscale: 1
 CPU load: 25.00%
 Emptiness: 0.00%
@@ -435,15 +450,35 @@ Node order
 
          ======================================================
 
-1xN000:  ===============================
+1xN000:  =======================================
          Matrix computation (PBA)
-         	[PBA version: legacy]
+         	[Gaps between metals are preserved]
+         	[PBA version: default]
          Version 2019.5 (build 20190426)
-         PBA version 0
-         2020 Oct 07 (Wed): 20:31:10
-         ===============================
+         PBA version 2019042619
+         2020 Oct 08 (Thu): 04:00:43
+         =======================================
+
+1xN000:  ----------------------------------------------
+         Used point accuracy enhancement value: 75.00%.
+         ----------------------------------------------
 
 1xN000:  Shapes are ordered to support shape wise matrix storage
+1xN000:  ==================================================================================================
+         == CST Matrix Calculation Priority Log                                                          ==
+         ==================================================================================================
+
+         Priorities are sorted in ascending order beginning with the lowest priority
+
+         Priority:   3, shape   1: component1:Waveguide, material: PEC
+
+         ==================================================================================================
+
+1xN000:  Gap-Detection activated for FARM-topology. Gaps are resolved, even partially.: gap tolerance value is 0.001 and mesh geometry scale is 0.001
+1xN000:  cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+         FARM/Meshfill cache is set to 8 (local FI domains: 8, dynamic: true)
+         cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
 1xN000:  ------------------------------------------------------------------------------
          PBA fill limit is applied in inverse mode.
          PBA fill limit is applied on faces filled with at least 99.00% metal material.
