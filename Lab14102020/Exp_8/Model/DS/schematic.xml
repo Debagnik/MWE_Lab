@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchematicTopology Version="2.3" Seed="1" Grid="25">
+    <BasePath>C:/Users/KIIT/Documents/MWE_Lab/Lab14102020/Exp_8/Model/DS</BasePath>
+    <Block ForeignId="32862151" Id="1" Class="MWSSCHEM">
+        <Size Height="225" Width="225"/>
+        <Pins>
+            <Pin X="-112" Y="-37" Index="0" BlockPosition="Left">
+                <Label>1</Label>
+            </Pin>
+            <Pin X="-112" Y="38" Index="1" BlockPosition="Left">
+                <Label>2</Label>
+            </Pin>
+            <Pin X="113" Y="-37" Index="0" BlockPosition="Right">
+                <Label>3</Label>
+            </Pin>
+            <Pin X="113" Y="38" Index="1" BlockPosition="Right">
+                <Label>4</Label>
+            </Pin>
+        </Pins>
+        <Image Scale="AutoFit" FileName="../3D/Model.dib">
+            <Size Height="613" Width="801"/>
+        </Image>
+        <Pos X="87" Y="87"/>
+        <ToolTip>CST MICROWAVE STUDIO schematic block MWSSCHEM1</ToolTip>
+    </Block>
+</SchematicTopology>
